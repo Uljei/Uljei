@@ -1,8 +1,8 @@
-<h1 align="center">🐎 Sain baina uu! I'm Jiazhuang Uljei Chen 🌌</h1>
+<h1 align="center">🐎 Sain baina uu! I'm Jiazhuang "Uljei" Chen 🌌</h1>
 <h3 align="center">AI Researcher · LLM / RAG Pipelines · From the Steppe to the Neural Net</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Möngke+Khökh+Tenger+%E2%80%94+Endless+Blue+Sky%2C+Endless+Curiosity;Building+LLM+pipelines+%26+RAG+systems+that+actually+ship;M.Sc.+in+Machine+Learning+%40+Lund+University;Python+%7C+PyTorch+%7C+LangChain+%7C+Multithreaded+Everything" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Moenke%20Khoekh%20Tenger%20--%20Endless%20Blue%20Sky%2C%20Endless%20Curiosity;Building%20LLM%20pipelines%20%26%20RAG%20systems%20that%20actually%20ship;M.Sc.%20in%20Machine%20Learning%20%40%20Lund%20University;Python%20%7C%20PyTorch%20%7C%20LangChain%20%7C%20Multithreaded%20Everything" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -129,8 +129,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Uljei&show_icons=true&theme=default&hide_border=true&icon_color=1E90FF&title_color=1E90FF" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uljei&layout=compact&hide_border=true&title_color=1E90FF" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Uljei&show_icons=true&theme=default&hide_border=true&icon_color=1E90FF&title_color=1E90FF" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Uljei&layout=compact&hide_border=true&title_color=1E90FF" alt="Top Languages"/>
 </p>
 
 <p align="center">
