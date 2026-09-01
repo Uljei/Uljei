@@ -19,7 +19,7 @@
 ### 🔬 About Me
 
 - 🎓 I'm an **AI Researcher** focused on machine learning and deep learning
-- 🧠 Interested in **NLP**, **Computer Vision**, and **Model Optimization**（可根据你的实际研究方向修改）
+- 🧠 Interested in **NLP**, **Computer Vision**, and **Model Optimization**
 - 🐍 My primary language is **Python**, with hands-on experience across the ML research stack
 - 📚 Always reading papers, reproducing experiments, and open-sourcing research code
 - 💬 Ask me about: PyTorch, Transformers, Data Pipelines, Experiment Design
