@@ -1,4 +1,4 @@
-<h1 align="center">🐎 Sain baina uu! I'm Jiazhuang "Uljei" Chen 🌌</h1>
+<h1 align="center">🐎 Sain baina uu! I'm Jiazhuang Uljei Chen 🌌</h1>
 <h3 align="center">AI Researcher · LLM / RAG Pipelines · From the Steppe to the Neural Net</h3>
 
 <p align="center">
